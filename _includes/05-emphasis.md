@@ -1,1 +1,15 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Here is a *list* of **skills** I have:
+
+## Food
+* Foccacia
+* Mac and Cheese
+* Hard boiled eggs
+
+## Hobbies
+* Sewing
+* Typewriter repair
+* Remembering actors in obscure roles
+
+## 
